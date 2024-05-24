@@ -1,6 +1,8 @@
 # species
 
-The code in this repository is intended to clean a modeled SGCN species richness dataset by standardizing species ID codes, coordinate reference systems, column names, and filenames across multiple input shapefiles. Species ID lists are exported as CSVs to provide base files for crosswalking to common names and scientific names. Cleaned shapefiles are re-exported for uploading onto SNAP's server for public access. The cleaned files are located [here](http://data.snap.uaf.edu/data/Base/Other/Species/). All SGCN data is also combined into a long-format table that can be used to query species IDs by HUC and species type. Though it contains no meaningful geospatial data, this file is exported as a shapefile for SNAP to host on GeoServer where the species information can be easily queried.
+The code in this repository is intended to clean a modeled SGCN species richness dataset by standardizing species ID codes, coordinate reference systems, column names, and filenames across multiple input shapefiles. Species ID lists are exported as CSVs to provide base files for crosswalking to common names and scientific names. Cleaned shapefiles are re-exported for uploading onto SNAP's server for public access. 
+
+The cleaned files are located [here](http://data.snap.uaf.edu/data/Base/Other/Species/). All SGCN data is also combined into a long-format table that can be used to query species IDs by HUC and species type (zipped as `huc_species_lookup.shp` in this repo). Though it contains no meaningful geospatial data, this file was exported as a shapefile for SNAP to host on GeoServer where the species information can be easily queried. 
 
 ### Data Source
 
