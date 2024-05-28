@@ -1,0 +1,212 @@
+species_id,common_name,scientific_name
+columbiasp,Columbia Spotted Frog,Rana luteiventris
+longtoedsa,Long-toed Salamander,Ambystoma macrodactylum
+nwsalamand,Northwestern Salamander,Ambystoma gracile
+redleggedf,Red-legged Frog,Rana aurora
+roughskinn,Rough-skinned Newt,Taricha granulosa
+westerntoa,Western Toad,Anaxyrus boreas
+woodfrog,Wood Frog,Lithobates sylvaticus
+ag_squirel,Arctic Ground Squirrel,Urocitellus parryii
+ak_hare,Alaskan Hare,Lepus othus
+ak_marmot,Alaska Marmot,Marmota broweri
+aktny_shrw,Alaskan Tiny Shrew,Sorex yukonicus
+alxdr_wolf,Alexander Archipelago Wolf,Canis lupus ligoni
+amwtr_shrw,American Water Shrew,Sorex palustris
+arctic_fox,Arctic Fox,Vulpes lagopus
+bargd_shrw,Barren Ground Shrew,Sorex ugyunak
+beard_seal,Bearded Seal,Erignathus barbatus
+bt_woodrat,Bushy-tailed Woodrat,Neotoma cinerea
+ca_myotis,California Myotis,Myotis californicus
+ciner_shrw,Cinereus Shrew,Sorex cinereus
+colard_pik,Collared Pika,Ochotona collaris
+dusky_shrw,Dusky Shrew,Sorex monticolus
+harbr_seal,Harbor Seal,Phoca vitulina
+hry_marmot,Hoary Marmot,Marmota caligata
+keen_mytis,Keen's Myotis,Myotis keenii
+lgtail_vol,Long-tailed Vole,Microtus longicaudus
+lilb_mytis,Little Brown Myotis,Myotis lucifugus
+lole_mytis,Long-legged Myotis,Myotis volans
+meadow_vol,Meadow Vole,Microtus pennsylvanicus
+mjmp_mouse,Meadow Jumping Mouse,Zapus hudsonius
+n_fur_seal,Callorhinus ursinus,Northern Fur Seal
+nbog_lemng,Northern Bog Lemming,Synaptomys borealis
+nbrn_lemng,Nearctic Brown Lemming,Lemmus trimucronatus
+ncol_lemng,Nelson's Collared Lemming,Dicrostonyx nelsoni
+nfl_squirl,Northern Flying Squirrel,Glaucomys sabrinus
+nrdbck_vol,Northern Red-backed Vole,Clethrionomys rutilus
+nw_dermous,Northwestern Deer Mouse,Peromyscus keeni
+pac_walrus,Pacific Walrus,Odobenus rosmarus divergens
+pahbr_seal,Pacific Harbor Seal,Phoca vitulina richardii
+polar_bear,Polar Bear,Ursus maritimus
+pygmy_shrw,Pygmy Shrew,Sorex hoyi
+red_squirl,Red Squirrel,Tamiasciurus hudsonicus
+ringd_seal,Ringed Seal,Pusa hispida
+root_vole,Root Vole,Microtus oeconomus
+sihair_bat,Silver-haired Bat,Lasionycteris noctivagans
+sing_vole,Singing Vole,Microtus miurus
+snosh_hare,Snowshoe Hare,Lepus americanus
+spotd_seal,Spotted Seal,Phoca largha
+sredbk_vol,Southern Red-backed Vole,Clethrionomys gapperi
+st_sealion,Steller Sea Lion,Eumetopias jubatus
+taiga_vole,Taiga Vole,Microtus xanthognathus
+tndra_shrw,Tundra Shrew,Sorex tundrensis
+woodchuck,Woodchuck,Marmota monax
+al_ck_goos,Aleutian Cackling Goose,Branta hutchinsii leucopareia
+al_flyctch,Alder Flycatcher,Empidonax alnorum
+aleut_tern,Aleutian Tern,Onychoprion aleuticus
+am_gld_plo,American Golden Plover,Pluvialis dominica
+am_kestrel,American Kestrel,Falco sparverius
+amer_pipit,American Pipit,Anthus rubescens
+amer_redst,American Redstart,Setophaga ruticilla
+an_murelet,Ancient Murrelet,Synthliboramphus antiquus
+arctc_loon,Arctic Loon,Gavia arctica
+arctc_tern,Arctic Tern,Sterna paradisaea
+arctic_war,Arctic Warbler,Phylloscopus borealis
+at_wdpeckr,American Three-toed Woodpecker,Picoides dorsalis
+bald_eagle,Bald Eagle,Haliaeetus leucocephalus
+bank_swalo,Bank Swallow,Riparia riparia
+barn_swalo,Barn Swallow,Hirundo rustica
+bb_plover,Black-bellied Plover,Pluvialis squatarola
+bb_sndpipr,Broad-billed Sandpiper,Calidris falcinellus
+bb_wdpeckr,Black-backed Woodpecker,Picoides arcticus
+bl_gilemot,Black Guillemot,Cepphus grylle
+blak_swift,Black Swift,Cypseloides niger
+blcp_chkde,Black-capped Chickadee,Poecile atricapillus
+blk_oystca,Black Oystercatcher,Haematopus bachmani
+blk_scoter,Black Scoter,Melanitta americana
+blk_trnstn,Black Turnstone,Arenaria melanocephala
+blklgd_kit,Black-legged Kittiwake,Rissa tridactyla
+bluethroat,Bluethroat,Luscinia svecica
+bo_waxwing,Bohemian Waxwing,Bombycilla garrulus
+boreal_owl,Boreal Owl,Aegolius funereus
+borl_chkde,Boreal Chickadee,Poecile hudsonicus
+bp_warbler,Blackpoll Warbler,Setophaga striata
+brant,Brant,Branta bernicla
+brown_cree,Brown Creeper,Certhia americana
+brthi_curl,Bristle-thighed Curlew,Numenius tahitiensis
+bt_godwit,Bar-tailed Godwit,Limosa lapponica
+c_yelothrt,Common Yellowthroat,Geothlypis trichas
+cack_goose,Cackling Goose,Branta hutchinsii
+cas_auklet,Cassin's Auklet,Ptychoramphus aleuticus aleuticus
+cb_chicdee,Chestnut-backed Chickadee,Poecile rufescens
+ch_sparrow,Chipping Sparrow,Spizella passerina
+com_eider,Common Eider,Somateria mollissima
+com_loon,Common Loon,Gavia immer
+com_redpol,Common Redpoll,Acanthis flammea
+comm_murre,Common Murre,Uria aalge
+comm_raven,Common Raven,Corvus corax
+cre_auklet,Crested Auklet,Aethia cristatella
+dkey_junco,Dark-eyed Junco,Junco hyemalis
+do_wdpeckr,Downy Woodpecker,Dryobates pubescens
+dovekie,Dovekie,Alle alle
+dunlin,Dunlin,Calidris alpina
+empr_goose,Emperor Goose,Chen canagica
+fox_sparow,Fox Sparrow,Passerella iliaca
+gc_kinglet,Golden-crowned Kinglet,Regulus satrapa
+gc_rsyfnch,Gray-crowned Rosy Finch,Leucosticte tephrocotis
+gc_sparrow,Golden-crowned Sparrow,Zonotrichia atricapilla
+gh_chicade,Gray-headed Chickadee,Poecile cinctus
+glauc_gull,Glaucous Gull,Larus hyperboreus
+glwi_gull,Glaucous-winged Gull,Larus glaucescens
+gold_eagle,Golden Eagle,Aquila chrysaetos
+gray_jay,Gray Jay,Perisoreus canadensis
+grgray_owl,Great Gray Owl,Strix nebulosa
+grwf_goose,Greater White-fronted Goose,Anser albifrons
+gyrfalcon,Gyrfalcon,Falco rusticolus
+ha_wdpeckr,Hairy Woodpecker,Picoides villosus
+herng_gull,Herring Gull,Larus smithsonianus
+horn_grebe,Horned Grebe,Podiceps auritus
+hornd_lark,Horned Lark,Eremophila alpestris
+horned_puf,Horned Puffin,Fratercula corniculata
+hrmt_thrsh,Hermit Thrush,Catharus guttatus
+hry_redpol,Hoary Redpoll,Acanthis hornemanni
+hud_godwit,Hudsonian Godwit,Limosa haemastica
+killdeer,Killdeer,Charadrius vociferus
+king_eider,King Eider,Somateria spectabilis
+kingfisher,Belted Kingfisher,Megaceryle alcyon
+kit_murlet,Kittlitz's Murrelet,Brachyramphus brevirostris
+la_longspr,Lapland Longspur,Calcarius lapponicus
+lea_auklet,Least Auklet,Aethia pusilla
+les_yelolg,Lesser Yellowlegs,Tringa flavipes
+lesr_scaup,Lesser Scaup,Aythya affinis
+lgtl_duck,Long-tailed Duck,Clangula hyemalis
+li_sparrow,Lincoln's Sparrow,Melospiza lincolnii
+lngbl_dowi,Long-billed Dowitcher,Limnodromus scolopaceus
+lt_jaeger,Long-tailed Jaeger,Stercorarius longicaudus
+mac_warblr,Mangrove Warbler,Setophaga petechia
+mbl_godwit,Marbled Godwit,Limosa fedoa
+mbl_murlet,Marbled Murrelet,Brachyramphus marmoratus
+mc_bunting,McKay's Bunting,Plectrophenax hyperboreus
+mew_gull,Short-billed Gull,Larus brachyrhynchus
+no_flicker,Northern Flicker,Colaptes auratus
+no_harrier,Northern Harrier,Circus cyaneus
+no_shrike,Northern Shrike,Lanius excubitor
+no_wheater,Northern Wheatear,Oenanthe oenanthe
+nor_hawk_o,Northern Hawk-Owl,Surnia ulula
+oc_warbler,Orange-crowned Warbler,Leiothlypis celata
+os_flyctch,Olive-sided Flycatcher,Contopus cooperi
+pac_goldnp,Pacific Golden Plover,Pluvialis fulva
+pacif_loon,Pacific Loon,Gavia pacifica
+pacif_wren,Pacific Wren,Troglodytes pacificus
+par_auklet,Parakeet Auklet,Aethia psittacula
+pe_cormrnt,Pelagic Cormorant,Phalacrocorax pelagicus
+pe_sndpipr,Pectoral Sandpiper,Calidris melanotos
+peal_falcn,Peale's Falcon,Falco peregrinus pealei
+per_falcon,Peregrine Falcon,Falco peregrinus
+pi_grosbek,Pine Grosbeak,Pinicola enucleator
+pi_guilmot,Pigeon Guillemot,Cepphus columba
+pin_siskin,Pine Siskin,Spinus pinus
+pom_jaeger,Pomarine Jaeger,Stercorarius pomarinus
+ps_flycach,Western Flycatcher,Empidonax difficilis
+qchr_gshwk,Queen Charlotte Goshawk,Accipiter gentilis laingi
+rb_sapsckr,Red-breasted Sapsucker,Sphyrapicus ruber
+rdtht_loon,Red-throated Loon,Gavia stellata
+red_crsbil,Red Crossbill,Loxia curvirostra
+red_knot,Red Knot,Calidris canutus
+red_phlrop,Red Phalarope,Phalaropus fulicarius
+rf_cormrnt,Red-faced Cormorant,Phalacrocorax urile
+rl_kitiwak,Red-legged Kittiwake,Rissa brevirostris
+rn_grebe,Red-necked Grebe,Podiceps grisegena
+rn_phalrop,Red-necked Phalarope,Phalaropus lobatus
+ro_sndpipr,Rock Sandpiper,Calidris ptilocnemis
+ru_blckbrd,Rusty Blackbird,Euphagus carolinus
+rubcr_king,Ruby-crowned Kinglet,Corthylio calendula
+ruf_humbrd,Rufous Hummingbird,Selasphorus rufus
+ruflg_hawk,Rough-legged Hawk,Buteo lagopus
+rw_blakbrd,Red-winged Blackbird,Agelaius phoeniceus
+sanderling,Sanderling,Calidris alba
+sav_sparow,Savannah Sparrow,Passerculus sandwichensis
+sb_dowichr,Short-billed Dowitcher,Limnodromus griseus
+se_sndpipr,Semipalmated Sandpiper,Calidris pusilla
+shtear_owl,Short-eared Owl,Asio flammeus
+sm_longspr,Smith's Longspur,Calcarius pictus
+sng_sparow,Song Sparrow,Melospiza melodia
+sno_buntng,Snow Bunting,Plectrophenax nivalis
+snowy_owl,Snowy Owl,Bubo scandiacus
+so_sndpipr,Solitary Sandpiper,Tringa solitaria
+sp_sndpipr,Spotted Sandpiper,Actitis macularius
+spec_eider,Spectacled Eider,Somateria fischeri
+stel_eider,Steller's Eider,Polysticta stelleri
+stelar_jay,Steller's Jay,Cyanocitta stelleri
+surfbird,Surfbird,Calidris virgata
+swn_thrush,Swainson's Thrush,Catharus ustulatus
+tft_puffin,Tufted Puffin,Fratercula cirrhata
+thbi_murre,Thick-billed Murre,Uria lomvia
+to_warbler,Townsend's Warbler,Setophaga townsendi
+tre_sparow,American Tree Sparrow,Spizelloides arborea
+tree_swalo,Tree Swallow,Tachycineta bicolor
+trmpt_swan,Trumpeter Swan,Cygnus buccinator
+upld_sandp,Upland Sandpiper,Bartramia longicauda
+var_thrush,Varied Thrush,Ixoreus naevius
+w_scrchowl,Western Screech Owl,Megascops kennicottii
+wandr_tatt,Wandering Tattler,Tringa incana
+wc_sparrow,White-crowned Sparrow,Zonotrichia leucophrys
+we_sndpipr,Western Sandpiper,Calidris mauri
+whimbrel,Whimbrel,Numenius phaeopus
+wlsn_wrblr,Wilson's Warbler,Cardellina pusilla
+woodpeewee,Western Wood Pewee,Contopus sordidulus
+wsk_auklet,Whiskered Auklet,Aethia pygmaea
+ww_scoter,White-winged Scoter,Melanitta deglandi
+ye_warbler,Yellow Warbler,Setophaga petechia
+yelobil_ln,Yellow-billed Loon,Gavia adamsii
+yelothroat,Common Yellowthroat,Geothlypis trichas
