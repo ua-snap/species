@@ -7,9 +7,9 @@ roughskinn,Rough-skinned Newt,Taricha granulosa
 westerntoa,Western Toad,Anaxyrus boreas
 woodfrog,Wood Frog,Lithobates sylvaticus
 ag_squirel,Arctic Ground Squirrel,Urocitellus parryii
-ak_hare,Alaskan Hare,Lepus othus
+ak_hare,Alaska Hare,Lepus othus
 ak_marmot,Alaska Marmot,Marmota broweri
-aktny_shrw,Alaskan Tiny Shrew,Sorex yukonicus
+aktny_shrw,Alaska Tiny Shrew,Sorex yukonicus
 alxdr_wolf,Alexander Archipelago Wolf,Canis lupus ligoni
 amwtr_shrw,American Water Shrew,Sorex palustris
 arctic_fox,Arctic Fox,Vulpes lagopus
@@ -24,11 +24,11 @@ harbr_seal,Harbor Seal,Phoca vitulina
 hry_marmot,Hoary Marmot,Marmota caligata
 keen_mytis,Keen's Myotis,Myotis keenii
 lgtail_vol,Long-tailed Vole,Microtus longicaudus
-lilb_mytis,Little Brown Myotis,Myotis lucifugus
-lole_mytis,Long-legged Myotis,Myotis volans
+lilb_mytis,Little Brown Bat,Myotis lucifugus
+lole_mytis,Long-legged Bat,Myotis volans
 meadow_vol,Meadow Vole,Microtus pennsylvanicus
 mjmp_mouse,Meadow Jumping Mouse,Zapus hudsonius
-n_fur_seal,Callorhinus ursinus,Northern Fur Seal
+n_fur_seal,Northern Fur Seal,Callorhinus ursinus,
 nbog_lemng,Northern Bog Lemming,Synaptomys borealis
 nbrn_lemng,Nearctic Brown Lemming,Lemmus trimucronatus
 ncol_lemng,Nelson's Collared Lemming,Dicrostonyx nelsoni
